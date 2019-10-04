@@ -1,5 +1,6 @@
 # Correspondence Matching for Hand-eye Calibration AX = XB
 Authors: Jin Wu and Ming Liu
+
 Emails: jin_wu_uestc@hotmail.com; eelium@ust.hk
 
 # Reference
