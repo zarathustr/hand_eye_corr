@@ -1,3 +1,15 @@
+% Correspondence Matching for Hand-eye Calibration
+% Author: Jin Wu
+% E-mail: jin_wu_uestc@hotmail.com
+% Website: www.jinwu.science
+%
+% Citation: Wu, J. and Liu, M. (2019) 
+%                 Correspondence Matching for Hand-eye Calibration. 
+%                 IEEE Trans. Instrum. Meas. (Submitted)
+%
+% Copyright (c) 2019 Jin Wu
+
+
 function A = times_(r, dim)
 
 len = dim * (dim - 1) / 2;
