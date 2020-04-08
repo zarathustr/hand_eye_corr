@@ -4,5 +4,5 @@ Authors: Jin Wu and Ming Liu, from HKUST
 Emails: jin_wu_uestc@hotmail.com; eelium@ust.hk
 
 # Reference
-Wu, J. and Liu, M. (2019) Correspondence Matching for Hand-eye Calibration. Submitted to IEEE Trans. Instrum. Meas.
+Wu, J., Liu, M., Zhang, C., Zhou, Z. (2020) Correspondence Matching for Hand-eye Calibration. IEEE Transactions on Instrumentation and Measurement.
 
